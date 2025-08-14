@@ -19,9 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<div style="position: relative; padding-bottom: 63.49206349206349%; height: 0;">
-    <iframe src="https://www.loom.com/embed/42bf2570c66b4b6fbf53ba1756d38e55" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://www.loom.com/embed/aaf2cc38ee62498899193cdf9915f5d7?sid=1ee443df-fd68-401b-8a5d-8836a2b427b6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <div>
     <a href="https://www.loom.com/share/aaf2cc38ee62498899193cdf9915f5d7">
     </a>
