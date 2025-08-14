@@ -19,8 +19,15 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://www.loom.com/embed/aaf2cc38ee62498899193cdf9915f5d7?sid=ac078395-2281-4ea9-9c86-24d91bda3fc8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-<!-- Replace this with whatever GIF tool you used! -->
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/aaf2cc38ee62498899193cdf9915f5d7">
+      <p>127.0.0.1:5500/index.html - 13 August 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/aaf2cc38ee62498899193cdf9915f5d7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/aaf2cc38ee62498899193cdf9915f5d7-6bd9bd3766b639d0-full-play.gif">
+    </a>
+  </div>
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
