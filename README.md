@@ -22,9 +22,6 @@ Here's a walkthrough of implemented features:
 
 <div>
     <a href="https://www.loom.com/share/7ec219cbcc30466996714af2c2fa66c2">
-      <p>127.0.0.1:5500/index.html - 13 August 2025 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/7ec219cbcc30466996714af2c2fa66c2">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7ec219cbcc30466996714af2c2fa66c2-95bfce45e5047520-full-play.gif">
     </a>
   </div>
