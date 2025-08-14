@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<iframe width="640" height="383" src="https://www.loom.com/embed/aaf2cc38ee62498899193cdf9915f5d7?sid=cab403a1-5f9a-4a74-9ac0-490dea463444" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 <div>
     <a href="https://www.loom.com/share/aaf2cc38ee62498899193cdf9915f5d7">
