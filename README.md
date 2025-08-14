@@ -19,10 +19,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 63.49206349206349%; height: 0;">
+    <iframe src="https://www.loom.com/embed/42bf2570c66b4b6fbf53ba1756d38e55" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 <div>
     <a href="https://www.loom.com/share/aaf2cc38ee62498899193cdf9915f5d7">
-      <p>127.0.0.1:5500/index.html - 13 August 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/aaf2cc38ee62498899193cdf9915f5d7">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/aaf2cc38ee62498899193cdf9915f5d7-6bd9bd3766b639d0-full-play.gif">
